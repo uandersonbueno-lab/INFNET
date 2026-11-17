@@ -42,5 +42,5 @@ Exemplares: PAT-001 a PAT-007. O PAT-004 está danificado e o PAT-006 está indi
 
 ## Uso de ferramentas de IA
 
-**Ferramenta: Claude Code (Anthropic), modelo Claude Opus 5.5.
-**Uso autorizado pelo professor em aula. A ferramenta foi usada para ajustes e correções, também foi usada para auxilio nas soluções e correção de texto e relatorios. Todo o conteúdo foi revisado e validado pelo aluno.
+**Ferramenta:** Claude Code (Anthropic), modelo Claude Opus 5.5.
+ A ferramenta foi usada para ajustes e correções, também foi usada para auxilio nas soluções e correção de texto e relatorios. Todo o conteúdo foi revisado e validado pelo aluno.
